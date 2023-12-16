@@ -8,11 +8,16 @@ The project is a Streamlit-based web application that leverages natural language
 * PyPDF2
 * Hugging Face Transformers
 * PyTorch
+* EasyOcr
+* Pillow
+* OpenCV
+* Numpy
 
 # Steps to run
  * Clone repository
  * Install pre-requisities and dependencies
  * > streamlit run s1.py
+   > streamlit run Ocr1.py
 
 
 
