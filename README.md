@@ -17,7 +17,7 @@ The project is a Streamlit-based web application that leverages natural language
  * Clone repository
  * Install pre-requisities and dependencies
  * > streamlit run s1.py
-   > streamlit run Ocr1.py
+ * > streamlit run Ocr1.py
 
 
 
